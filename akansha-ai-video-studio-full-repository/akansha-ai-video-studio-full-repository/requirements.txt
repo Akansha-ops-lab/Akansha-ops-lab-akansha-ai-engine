@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+Pillow>=10.0
+imageio-ffmpeg>=0.5
+gTTS>=2.5
+fastapi>=0.110
+uvicorn[standard]>=0.27
